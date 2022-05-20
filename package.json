@@ -1,0 +1,23 @@
+{
+  "name": "mod04-exercicios-semana01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmota96/mod04-exercicios-semana01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danmota96/mod04-exercicios-semana01/issues"
+  },
+  "homepage": "https://github.com/danmota96/mod04-exercicios-semana01#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
